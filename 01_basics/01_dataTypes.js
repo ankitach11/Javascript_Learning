@@ -6,18 +6,19 @@ console.log(3
     +
      3) // code readability should be high
 
-     let name = "Ankita"
-let age = 18
+     let name = "Ankita" //string
+let age = 18 //int
 let isLoggedIn = false
 let state;
 
+//range and datatypes
 // number => 2 to power 53
 // bigint
 // string => ""
 // boolean => true/false
-// null => standalone value
-// undefined => 
-// symbol => unique
+// null => standalone value., not undefined, that is khali
+// undefined => jb varale declare kar de but value assgn nahi kiya
+// symbol => use for uniqueness
 
 
 // object
